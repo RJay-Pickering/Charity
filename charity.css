@@ -3,6 +3,13 @@ body {
   background-color: black;
 }
 
+.textmain {
+  font-size: 75px;
+  text-align: center;
+  color: grey;
+  font-family: Impact, "Arial Narrow Bold", sans-serif;
+}
+
 .text {
   font-size: 50px;
   text-align: center;
@@ -15,4 +22,22 @@ body {
   color: ghostwhite;
   font-size: 25px;
   font-family: "Source Sans Pro", sans-serif;
+}
+.intro {
+  width: 1325px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.undead {
+  width: 1325px;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ending {
+  width: 1325px;
+  margin-left: auto;
+  margin-right: auto;
 }
