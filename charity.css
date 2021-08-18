@@ -1,11 +1,18 @@
 body {
   margin: 50px;
-  background-color: grey;
+  background-color: black;
 }
 
 .text {
   font-size: 50px;
   text-align: center;
-  color: ghostwhite;
+  color: grey;
   font-family: "Special Elite", cursive;
+}
+
+.learning {
+  text-align: center;
+  color: ghostwhite;
+  font-size: 25px;
+  font-family: "Source Sans Pro", sans-serif;
 }
